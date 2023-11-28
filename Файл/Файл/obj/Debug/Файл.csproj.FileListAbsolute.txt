@@ -1,0 +1,15 @@
+C:\Users\Lex34\source\repos\Файл\Файл\obj\Debug\Файл.csproj.AssemblyReference.cache
+C:\Users\Lex34\source\repos\Файл\Файл\obj\Debug\MainWindow.g.cs
+C:\Users\Lex34\source\repos\Файл\Файл\obj\Debug\App.g.cs
+C:\Users\Lex34\source\repos\Файл\Файл\obj\Debug\Файл_MarkupCompile.cache
+C:\Users\Lex34\source\repos\Файл\Файл\obj\Debug\Файл_MarkupCompile.lref
+C:\Users\Lex34\source\repos\Файл\Файл\bin\Debug\Файл.exe.config
+C:\Users\Lex34\source\repos\Файл\Файл\bin\Debug\Файл.exe
+C:\Users\Lex34\source\repos\Файл\Файл\bin\Debug\Файл.pdb
+C:\Users\Lex34\source\repos\Файл\Файл\obj\Debug\MainWindow.baml
+C:\Users\Lex34\source\repos\Файл\Файл\obj\Debug\Файл.g.resources
+C:\Users\Lex34\source\repos\Файл\Файл\obj\Debug\Файл.Properties.Resources.resources
+C:\Users\Lex34\source\repos\Файл\Файл\obj\Debug\Файл.csproj.GenerateResource.cache
+C:\Users\Lex34\source\repos\Файл\Файл\obj\Debug\Файл.csproj.CoreCompileInputs.cache
+C:\Users\Lex34\source\repos\Файл\Файл\obj\Debug\Файл.exe
+C:\Users\Lex34\source\repos\Файл\Файл\obj\Debug\Файл.pdb
